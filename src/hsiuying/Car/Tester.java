@@ -13,7 +13,7 @@ public class Tester {
             } catch (ParseException e) {
                 e.printStackTrace();
             }
-            //
+
         Calendar cal = Calendar.getInstance();
         System.out.println(cal.getTime());
 

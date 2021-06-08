@@ -1,6 +1,6 @@
 package hsiuying.customer;
 
-public class  Tester {
+public class   Tester {
     public static void main(String[] args) {
         customer customer = new customer("0001", 800);
         System.out.println(customer.id + "\t" +
